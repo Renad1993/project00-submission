@@ -1,0 +1,4 @@
+1. Edit the file to make change to the project.
+2. Use git add <filename> to stage the changes.
+3. Use git commit -m "message" to save the staged changes. 
+4. Use git push origin master/main to push the commits to the remote repository.
